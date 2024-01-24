@@ -1,0 +1,27 @@
+{
+"courses":[
+    {
+      "id":1,
+      "uses":"Web Application Development",
+      "name":"JAVA",
+      "image":"https://c7.alamy.com/comp/2ANPBXX/los-angeles-cali…and-copy-space-illustrative-editorial-2ANPBXX.jpg",
+      "description":"Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself"
+     
+  },
+  {
+       "id":2,
+      "uses":"Web Application Development",
+      "name":"DOT NET",
+      "image":"https://wallpapercave.com/dwp1x/wp10272162.png",
+      "description":". NET is an open-source platform for building desktop, web, and mobile applications that can run natively on any operating system."
+  },
+   {
+       "id":3,
+      "uses":"Web Application Development",
+      "name":"PYTHON",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png",
+      "description":"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics."
+  }
+    
+  ]
+}
